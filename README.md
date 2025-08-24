@@ -1,4 +1,4 @@
-#🛣️ Intelligent Classification of Rural Infrastructure Projects
+#Intelligent Classification of Rural Infrastructure Projects
 
 📜 Project Overview
 This project automates the classification of Pradhan Mantri Gram Sadak Yojana (PMGSY) rural infrastructure projects into their respective schemes (PMGSY-I, PMGSY-II, RCPLWEA, etc.) using Machine Learning.
